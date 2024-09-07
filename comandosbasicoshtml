@@ -1,0 +1,18 @@
+
+
+
+Você está criando um arquivo HTML básico. Aqui está uma explicação de cada comando:
+
+<!DOCTYPE html>: Esta declaração especifica o tipo de documento como HTML5, a versão mais recente de HTML.
+
+<html lang="en">: Este elemento define a raiz de um documento HTML. O atributo lang especifica o idioma do documento, neste caso, inglês.
+
+<head>: Este elemento contém meta-informações sobre a página HTML, como o título, codificação de caracteres e configurações de exibição.
+
+<meta charset="UTF-8">: Esta meta tag especifica a codificação de caracteres usada no documento HTML. UTF-8 é uma codificação amplamente utilizada que suporta uma ampla variedade de caracteres.
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">: Esta meta tag controla a viewport, que é a área da tela onde a página da web é exibida. O width=device-width parte define a largura da viewport para corresponder à largura da tela do dispositivo, enquanto o initial-scale=1.0 parte define o nível de zoom inicial para 1.0 (tamanho normal).
+
+<title>Document</title>: Este elemento define o título do documento HTML, que aparece na barra de título ou na guia do navegador.
+
+<body>: Este elemento contém o conteúdo visível da página HTML, como texto, imagens e outros elementos. Neste caso, o corpo está vazio, portanto, a página ficará em branco.
